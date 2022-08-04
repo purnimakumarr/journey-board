@@ -1,4 +1,4 @@
-# DEEP THOUGHT HTML/CSS WEB DESIGNER ASSIGNMENT (TASK 1 - Web Page Creation)
+# Deep Thought HTML/CSS Web Designer Assignment (Task 1 - Web Page Creation)
 
 ## Table of contents
 
@@ -16,13 +16,23 @@
 
 ![Desktop view displaying the header, sidebar and task headings 1 and 2 in the journey board](./images/desktop-view-1.png)
 
+<br />
+
 ![Desktop view displaying task headings 3 and 4 of journey board](./images/desktop-view-2.png)
+
+<br />
 
 ![Desktop view displaying task heading 7 and 8 of the journey board](./images/desktop-view-3.png)
 
+<br />
+
 ![Desktop view displaying task heading 9 of the journey board](./images/desktop-view-4.png)
 
+<br />
+
 ![Active state of the sidebar in desktop view](./images/active-state.png)
+
+<br />
 
 ## Build With
 
