@@ -1,4 +1,4 @@
-# Deep Thought HTML/CSS Web Designer Assignment (Task 1 - Web Page Creation)
+# Deep Thought - Agile SoftDev Front-end Developer Assignment
 
 ## Table of contents
 
@@ -9,30 +9,27 @@
 
 ## Problem Statement
 
+### TASK 1
+
 - Create the HTML/CSS code for the applicant's storyboard feature
 - FIGMA files are provided (single page, with two states)
 
+### TASK 2
+
+- Given: JSON objects and functionality detail
+- Todo: Execute a dynamic page with the functionality
+
 ## Screenshots
 
-![Desktop view displaying the header, sidebar and task headings 1 and 2 in the journey board](./images/desktop-view-1.png)
+![Desktop view of the journey board](./images/desktop-view.png)
 
-<br />
+![Desktop view if expanded sidebar](./images/active-state.png)
 
-![Desktop view displaying task headings 3 and 4 of journey board](./images/desktop-view-2.png)
+![](./images/desktop-view-2.png)
 
-<br />
+![](./images/desktop-view-3.png)
 
-![Desktop view displaying task heading 7 and 8 of the journey board](./images/desktop-view-3.png)
-
-<br />
-
-![Desktop view displaying task heading 9 of the journey board](./images/desktop-view-4.png)
-
-<br />
-
-![Active state of the sidebar in desktop view](./images/active-state.png)
-
-<br />
+![](./images/desktop-view-4.png)
 
 ## Build With
 
@@ -41,7 +38,7 @@
 - CSS Flexbox
 - CSS Grid
 - Desktop-first workflow
-- Vanilla JavaScript (to toggle between states)
+- Vanilla JavaScript
 - FontAwesome - For Icons
 
 ## Author
